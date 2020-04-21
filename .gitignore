@@ -7,11 +7,6 @@
 *.tax2010
 *.vcf
 *.txt
-*.xls
-*.xlsx
-
-*.ppt
-*.pptx
 
 *.7z
 *.deb
