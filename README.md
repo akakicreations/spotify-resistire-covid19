@@ -9,4 +9,7 @@ En este repositorio están los datos y el análisis que se explica en el artícu
 <p>Cualquier comentario revisión es bienvenido, ¡gracias!</p>
 <h2 id="datos">Datos</h2>
 <p>Los datos han sido importados de <a href="https://spotifycharts.com/">SpotifyCharts</a> y he utilizado parte del código de <a href="https://github.com/kelvingakuo/fycharts">Kelvin Gakuo en Github</a>.</p>
-
+# spotify-resistire-covid19
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAyNjc2NTU2XX0=
+-->
