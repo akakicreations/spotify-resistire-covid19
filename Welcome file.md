@@ -6,10 +6,10 @@ En este repositorio están los datos y el análisis que se explica en el artícu
 Cualquier comentario revisión es bienvenida, ¡gracias!
 
 ## Datos
-Los datos utilizados son de [SpotifyCharts](https://spotifycharts.com/) y he utilizado parte del código de 
+Los datos han sido importados de [SpotifyCharts](https://spotifycharts.com/) y he utilizado parte del código de [Kelvin Gakuo en Github](https://github.com/kelvingakuo/fycharts).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNjgzMjVdfQ==
+eyJoaXN0b3J5IjpbLTI0MDE0NDQ4M119
 -->
